@@ -1,7 +1,3 @@
-Here’s a simple `README.md` file for your counter app:  
-
----
-
 # Counter App  
 
 A simple counter application built using HTML, CSS, and JavaScript. The app allows users to increase, decrease, and reset a numerical counter.  
@@ -27,7 +23,6 @@ A simple counter application built using HTML, CSS, and JavaScript. The app allo
 
 ## Project Structure  
 
-```
 counter-app/
 │── index.html  # Main HTML file  
 │── style.css   # CSS file for styling
